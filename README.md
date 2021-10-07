@@ -1,1 +1,1 @@
-# Thenu
+# Project on pitchfork dataset
